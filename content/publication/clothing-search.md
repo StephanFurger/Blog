@@ -3,7 +3,7 @@ title = "Systems Neuroscience of Psychosis: Mapping Schizophrenia Symptoms onto 
 date = 2018-06-18T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Strik W.", "Stegmayer K."," Walther S.", "Dierks T."]
+authors = ["Strik W.", "Stegmayer K.", " Walther S.", "Dierks T."]
 
 # Publication type.
 # Legend:
