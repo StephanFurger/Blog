@@ -1,9 +1,9 @@
 +++
-title = "Systems Neuroscience of Psychosis"
+title = "Systems Neuroscience of Psychosis: Mapping Schizophrenia Symptoms onto Brain Systems"
 date = 2018-06-18T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["W.Strik", "T. Dierks"]
+authors = ["Strik W.", "Stegmayer K."," Walther S.", "Dierks T."]
 
 # Publication type.
 # Legend:
@@ -17,12 +17,15 @@ authors = ["W.Strik", "T. Dierks"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Conference on Multimedia and Expo Workshops (ICMEW)*, IEEE."
-publication_short = "In *ICMEW*"
+publication = "In *Neuropsychobiology 2017;75:97–97*"
+publication_short = "In *Neuropsychobiology*"
 
 # Abstract and optional shortened version.
-abstract = "We present a mobile visual clothing search system whereby a smart phone user can either choose a social networking photo or take a new photo of a person wearing clothing of interest and search for similar clothing in a retail database. From the query image, the person is detected, clothing is segmented, and clothing features are extracted and quantized. The information is sent from the phone client to a server, where the feature vector of the query image is used to retrieve similar clothing products from online databases. The phone's GPS location is used to re-rank results by retail store location. State of the art work focuses primarily on the recognition of a diverse range of clothing offline and pays little attention to practical applications. Evaluated on a challenging dataset, the system is relatively fast and achieves promising results."
-abstract_short = "A mobile visual clothing search system is presented whereby a smart phone user can either choose a social networking image or capture a new photo of a person wearing clothing of interest and search for similar clothing in a large cloud-based ecommerce database. The phone's GPS location is used to re-rank results by retail store location, to inform the user of local stores where similar clothing items can be tried on."
+abstract = "Schizophrenia research has been in a deadlock for many decades. Despite important advances in clinical treatment, there are still major concerns regarding long-term psychosocial reintegration and disease management, biological heterogeneity, unsatisfactory predictors of individual course and treatment strategies, and a confusing variety of controversial theories about its etiology and pathophysiological mechanisms. In the present perspective on schizophrenia research, we first discuss a methodological pitfall in contemporary schizophrenia research inherent in the attempt to link mental phenomena with the brain: we claim that the time-honored phenomenological method of defining mental symptoms should not be contaminated with the naturalistic approach of modern neuroscience. 
+
+We then describe our Systems Neuroscience of Psychosis (SyNoPsis) project, which aims to overcome this intrinsic problem of psychiatric research. Considering schizophrenia primarily as a disorder of interindividual communication, we developed a neurobiologically informed semiotics of psychotic disorders, as well as an operational clinical rating scale. The novel psychopathology allows disentangling the clinical manifestations of schizophrenia into behavioral domains matching the functions of three well-described higher-order corticobasal brain systems involved in interindividual human communication, namely, the limbic, associative, and motor loops, including their corticocortical sensorimotor connections. The results of several empirical studies support the hypothesis that the proposed three-dimensional symptom structure, segregated into the affective, the language, and the motor domain, can be specifically mapped onto structural and functional abnormalities of the respective brain systems. 
+
+New pathophysiological hypotheses derived from this brain system-oriented approach have helped to develop and improve novel treatment strategies with noninvasive brain stimulation and practicable clinical parameters. In clinical practice, the novel psychopathology allows confining the communication deficits of the individual patient, shifting attention from the symptoms to the intact resources. We have studied this approach and observed important advantages for therapeutic alliances, personalized treatment, and de-escalation strategies. Future studies will further conjoin clinical definitions of psychotic symptoms with brain structures and functions, and disentangle structural and functional deficit patterns within these systems to identify neurobiologically distinct subsyndromes. Neurobiologically homogeneous patient groups may provide new momentum for treatment research. Finally, lessons learned from schizophrenia research may contribute to developing a comprehensive perspective on human experience and behavior that integrates methodologically distinct, but internally consistent, insights from humanities and neuroscience."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -37,15 +40,7 @@ selected = true
 projects = ["project_synopsis.md"]
 
 # Links (optional).
-url_pdf = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
-url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
-url_code = "#"
-url_dataset = "#"
-url_project = "www.synopsis.net"
-url_slides = "#"
-url_video = "#"
-url_poster = "#"
-url_source = "#"
+url_source = "https://www.karger.com/Article/FullText/485221"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -65,4 +60,3 @@ caption = "SyNoPsis"
 
 +++
 
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
