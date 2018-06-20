@@ -35,6 +35,6 @@ weight = 5
 
 # Biography
 
-I'm a PhD student at the University of Bern and working in the field of Neuroscience.
+I'm a PhD student at the University of Bern in Switzerland and doing research in the field of Neuroscience.
 
 
