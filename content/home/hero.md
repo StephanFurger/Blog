@@ -24,5 +24,5 @@ weight = 3
 #   label = '<i class="fa fa-download"></i> Install Now'
 +++
 
-My personal page about neuroscience, data science and stuff.
+My Page about Neuroscience, Data Science and Research Stuff
 

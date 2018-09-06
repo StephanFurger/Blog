@@ -16,7 +16,7 @@ image_preview = "synopsis.jpg"
 tags = ["Neuroscience"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "www.synopsis.net"
+external_link = ""
 
 # Does the project detail page use math formatting?
 math = false
