@@ -64,7 +64,7 @@ enableGitInfo = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "stephan.furger@gmail.com"
-  address = "University Hospital of Psychiatry Bern, Switzerland"
+  address = "University Hospital of Psychiatry  and Psychotherapy Bern, Switzerland"
 
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -193,7 +193,7 @@ enableGitInfo = false
   # Configuration of project pages.
   [params.projects]
     # List publications and talks related to the project?
-    list_children = true
+    list_children = false
 
     # Publication list format.
     #   0 = Simple
