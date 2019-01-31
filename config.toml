@@ -54,7 +54,7 @@ enableGitInfo = false
   font = "playfair"
 
   # Your details.
-  name = "Stephan Furger"
+  name = "Stephan Furger, M.Sc."
   role = "PhD Student"
 
   # Organizations/Affiliations.
@@ -63,8 +63,8 @@ enableGitInfo = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "stephan.furger@gmail.com"
-  address = "University Hospital of Psychiatry and Psychotherapy Bern, Switzerland"
+  email = "stephan.furger@upd.unibe.ch"
+  address = "University Hospital of Psychiatry & Psychotherapy \n Center of Translational Research \n Division of Systems Neuroscience of Psychopathology\nBern, Switzerland"
 
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -223,7 +223,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:stephan.furger@gmail.com"
+    link = "mailto:stephan.furger@upd.unibe.ch"
 
   [[params.social]]
     icon = "twitter"
@@ -254,10 +254,10 @@ enableGitInfo = false
   url = "#about"
   weight = 1
 
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 2
+#[[menu.main]]
+# name = "Posts"
+# url = "#posts"
+# weight = 2
 
 [[menu.main]]
   name = "Projects"
