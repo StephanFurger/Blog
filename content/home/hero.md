@@ -14,7 +14,7 @@ weight = 3
 [header]
   overlay_color = ""  # An HTML color value.
   overlay_img = "headers/header_img.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0 # Darken the image. Value in range 0-1.
+  overlay_filter = 0.2 # Darken the image. Value in range 0-1.
 
 # Call to action button (optional).
 #   Activate the button by specifying a URL and button label below.
@@ -24,4 +24,4 @@ weight = 3
 #   label = '<i class="fa fa-download"></i> Install Now'
 +++
 
-My personal homepage about neuroscience, data science and research
+"The goal is to turn data into information and information into insight." - Carly Fiorina

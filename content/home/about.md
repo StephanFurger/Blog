@@ -11,8 +11,8 @@ weight = 5
 [interests]
   interests = [
     "Neuroscience",
-    "Psychology",
-    "Data Science"
+    "Data Science",
+    "Psychology"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -33,8 +33,9 @@ weight = 5
  
 +++
 
-# Biography
+# About me
 
-I'm a PhD student at the University of Bern in Switzerland and doing research in the field of Neuroscience.
+I work as a PhD student at the University Hospital of Psychiatry and Psychotherapy. My research projects invesitage the association of neurophysiological measures and emotional processing. I am passionate to work, learn, teach and collaborate in the field of health science and data science.
+
 
 
