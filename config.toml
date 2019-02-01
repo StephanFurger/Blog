@@ -256,7 +256,7 @@ enableGitInfo = false
   align_right = true
 
 [[menu.main]]
-  name = "Home"
+  name = "About me"
   url = "#about"
   weight = 1
 
