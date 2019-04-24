@@ -35,7 +35,7 @@ weight = 5
 
 # About me
 
-I work as a PhD student at the University Hospital of Psychiatry and Psychotherapy. My research projects invesitage the association of neurophysiological measures and emotional processing. I am passionate to work, learn, teach and collaborate in the field of health science and data science.
+I work as a PhD student at the University Hospital of Psychiatry and Psychotherapy. My research projects investigates the association between neurophysiological measures and emotional processing. I am passionate to work, learn, teach and collaborate in the field of health science and data science.
 
 
 
